@@ -1,0 +1,24 @@
+{
+  "name": "hue-dash",
+  "version": "0.0.1",
+  "description": "Control Philips Hue wireless lights using Amazon Dash buttons",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/p8952/hue-dash.git"
+  },
+  "keywords": [
+    "philips",
+    "hue",
+    "amazon",
+    "dash"
+  ],
+  "author": "Peter Wilmott <p@p8952.info>",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/p8952/hue-dash/issues"
+  }
+}
